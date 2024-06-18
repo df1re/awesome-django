@@ -715,4 +715,3 @@ phone numbers.
 # Credit of Repo
 
 * Credit of this great resource goes to 'Roberto Rosario'. He has stopped maintaining this repo but you can show your love and support by donation. [please consider donating](https://www.paypal.me/RobertoRosario), A way to thank him for his great work. Thank you!
-
